@@ -1,0 +1,45 @@
+Annual exam:
+PCP: Good morning! How have you been since our last visit?
+HC: I've been doing well, thanks.
+PCP: Great. Today we'll be conducting your annual exam. We'll review your medical history, perform a physical examination, and discuss any concerns you may have.
+
+Talking about prescriptions:
+PCP: Your blood pressure has been consistently high. I'd like to start you on a medication to help manage it.
+HC: What are the side effects?
+PCP: Common side effects include dizziness, fatigue, and headache. If you experience any severe side effects, let me know immediately.
+
+Refilling prescription:
+HC: I need a refill on my diabetes medication.
+PCP: Sure, I'll send the refill request to your pharmacy. Make sure to monitor your blood sugar levels regularly and report any changes.
+
+Referral to specialist:
+PCP: Based on your symptoms, I think it's best to see a gastroenterologist.
+HC: Can you provide a referral?
+PCP: Absolutely. I'll send a referral to a specialist in our network, and their office will contact you to schedule an appointment.
+
+Chronic care - diabetes:
+PCP: Your latest lab results show that your blood sugar levels are still high. We need to adjust your treatment plan.
+HC: What do you recommend?
+PCP: We can try a different medication, and I'd like you to meet with a nutritionist to discuss dietary changes.
+
+Chronic care - hypertension:
+PCP: How has your blood pressure been since our last visit?
+HC: It's been fluctuating.
+PCP: Let's review your current medication and lifestyle factors to see if we can better manage your hypertension.
+
+Preventive care:
+PCP: I see that you're due for a colonoscopy.
+HC: Is that necessary?
+PCP: It's important for early detection of colon cancer. I recommend scheduling one as soon as possible.
+
+Discussing follow-ups:
+PCP: Your recent lab results show an improvement in your cholesterol levels. Let's schedule a follow-up appointment in 3 months to continue monitoring your progress.
+HC: Sounds good, I'll schedule the appointment.
+
+Rescheduling:
+HC: I can't make it to my appointment next week. Can I reschedule?
+PCP: Of course, our receptionist will help you find a suitable date and time for your visit.
+
+Consultation for prescription:
+HC: I've been having trouble sleeping. Can you prescribe something?
+PCP: I'd like to schedule a consultation to discuss your symptoms and potential treatment options. It's important to address the underlying cause before prescribing medication.
