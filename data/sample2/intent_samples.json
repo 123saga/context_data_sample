@@ -1,0 +1,84 @@
+{
+    "intents": [
+        {
+            "intent": "Requesting a Referral",
+            "example": "Can you refer me to a specialist for my back pain?"
+        },
+        {
+            "intent": "Reporting a Symptom",
+            "example": "I've been experiencing headaches for the past week."
+        },
+        {
+            "intent": "Asking for Medication",
+            "example": "Can you prescribe me more insulin for my diabetes?"
+        },
+        {
+            "intent": "Asking for Test Results",
+            "example": "Can you tell me the results of my recent blood work?"
+        },
+        {
+            "intent": "Scheduling an Appointment",
+            "example": "Can I schedule an appointment to get my flu shot?"
+        },
+        {
+            "intent": "Reporting Adverse Reactions to Medications",
+            "example": "I've been taking this new medication and I've noticed that it's causing me to feel nauseous."
+        },
+        {
+            "intent": "Seeking a Second Opinion",
+            "example": "I'd like to get a second opinion on my diagnosis before moving forward with treatment."
+        },
+        {
+            "intent": "Asking for Refill of Medical Supplies",
+            "example": "Can you refill my prescription for my inhaler?"
+        },
+        {
+            "intent": "Requesting Medical Advice",
+            "example": "I've been feeling a lot of stress lately. What do you recommend for managing it?"
+        },
+        {
+            "intent": "Providing Health History and Medical Information",
+            "example": "I have a family history of heart disease and I'm concerned about my risk. Can you review my medical history with me?"
+        },
+        {
+            "intent": "Asking for Assistance with Insurance and Billing",
+            "example": "I'm having trouble understanding my insurance coverage. Can you help me figure out what's covered?"
+        },
+        {
+            "intent": "Discussing Treatment Options and Planning",
+            "example": "What are my options for managing my arthritis pain? Can we develop a treatment plan together?"
+        },
+        {
+            "intent": "Asking for Health Screening and Preventive Care",
+            "example": "What health screenings should I get for my age and medical history?"
+        },
+        {
+            "intent": "Reporting Changes in Condition or Symptoms",
+            "example": "I've been feeling more fatigued than usual lately."
+        },
+        {
+            "intent": "Seeking Support for Mental Health and Emotional Wellness",
+            "example": "I've been feeling really anxious lately. Can we talk about treatment options?"
+        },
+        {
+            "intent": "Asking for Health Education and Information",
+            "example": "Can you provide me with more information about the risks and benefits of this medication?"
+        },
+        {
+            "intent": "Requesting Assistance with Home Health Care",
+            "example": "I need help with managing my wound care at home. Can you refer me to a home health care provider?"
+        },
+        {
+            "intent": "Reporting Exposure to Environmental Toxins or Occupational Hazards",
+            "example": "I work in construction and I think I may have been exposed to asbestos. What should I do?"
+        },
+        {
+            "intent": "Asking for Assistance with Medical Equipment and Devices",
+            "example": "I need help getting a new wheelchair. Can you provide me with a prescription?"
+        },
+        {
+            "intent": "Seeking Information about Clinical Trials and Research Studies",
+            "example": "Are there any clinical trials or research studies available for my condition?"
+        }
+    ]
+}
